@@ -1,60 +1,6 @@
-# p5.js Template
+I designed this project as a refined, visually appealing interpretation of a polar clock. Inspired by the classic polar clock concept, I focused on creating a balance between aesthetics and readability, using color-coded rings to represent seconds, minutes, hours, days, and months. Each ring has a soft pastel gradient, giving it a modern and minimalist appeal.
 
-This is a README file that can be used to describe and document your assignment.
+To enhance readability, I brought each ring closer to the center and used a circular cap at the end of each arc, which serves as a focal point for a clear label. Each label is positioned directly below the cap, ensuring the time units are easy to identify. The colors are carefully chosen to be soft and elegant, allowing the clock to be visually pleasing without being overwhelming.
 
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
+This clock is also fully responsive, adapting to any screen size while maintaining its structured and cohesive look. Overall, it offers a unique and refined way to track time, combining functionality with a clean, sophisticated design.
 
----
----
-
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
-
-**bold text**
-
-*italicized text*
-
-~~strikethrough text~~
-
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
-
-
-Image with url:  
-![image description](https://dm-gy-6063-2024f-b.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
-
-
-Image on repo:  
-![image description](./file-name.jpg)
-
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
